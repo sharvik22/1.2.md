@@ -69,13 +69,17 @@
 
 ![image](https://github.com/user-attachments/assets/25cba507-8362-426f-8de4-f9253e5e534c)
 
+Проверил
 
+![image](https://github.com/user-attachments/assets/7c5100b2-a510-41e2-b869-45e26d086c94)
 
+Используя команду kubectl port-forward подключился к Pod
 
+![image](https://github.com/user-attachments/assets/4308639e-484f-4244-8b78-f859a4f01169)
 
+В новом терминале открыл curl 
 
- 
-
+![image](https://github.com/user-attachments/assets/4ef89b97-3420-46fd-866e-a6cc81ca49b4)
 
 ---
 
